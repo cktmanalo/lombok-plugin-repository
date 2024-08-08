@@ -1,0 +1,18 @@
+{
+  "android_studio": {
+    "platform_build": "241.18034.62",
+    "versions": [
+      {
+        "version": "2023.3.1.9",
+        "platformBuild": "241.15989.150",
+        "name": "Android Studio Koala | 2024.1.1",
+        "channel": "Release",
+        "date": "June 13, 2024"
+      }
+    ]
+  }
+  "info": {
+    "size": 471220,
+    "date": 1707184900291
+  }
+}
